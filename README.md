@@ -43,7 +43,7 @@ O projeto consiste em um layout básico com um cabeçalho, rodapé, e várias se
 
 ## Versão Online
 
-Você pode visualizar a versão online do projeto [aqui](https://flexbox-layout-nine.vercel.app/).
+Você pode visualizar a versão online do projeto [aqui](https://grid-pratication-af9s7pvbu-priscillatrevizans-projects.vercel.app/).
 
 ## Licença
 
